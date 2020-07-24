@@ -1,0 +1,6 @@
+D:\Comsatel\WcfService\bin\WcfService.dll.config
+D:\Comsatel\WcfService\bin\WcfService.dll
+D:\Comsatel\WcfService\bin\WcfService.pdb
+D:\Comsatel\WcfService\obj\Debug\WcfService.csproj.CoreCompileInputs.cache
+D:\Comsatel\WcfService\obj\Debug\WcfService.dll
+D:\Comsatel\WcfService\obj\Debug\WcfService.pdb
